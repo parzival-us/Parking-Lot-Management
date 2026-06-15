@@ -1,20 +1,7 @@
-# Compiled object files
+# Build outputs
 *.o
-*.obj
-
-# Executables
 *.exe
 *.out
-*.app
 
-# IDE and Editor files
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# Data files (optional, depending on if you want to track them)
+# Data files
 parking_records.txt
