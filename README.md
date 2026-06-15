@@ -40,8 +40,8 @@ After compiling, run the generated executable:
 Follow the on-screen menu instructions. Entering an invalid option will prompt you to try again.
 
 ### Fee Structure
-- **Bike**: $10.00 / hour
-- **Car**: $20.00 / hour
-- **Truck**: $50.00 / hour
+- **Bike**: 10.00 / hour
+- **Car**: 20.00 / hour
+- **Truck**: 50.00 / hour
 
 *(Note: The minimum fee charged is for 1 hour, even if parked for a shorter duration.)*
